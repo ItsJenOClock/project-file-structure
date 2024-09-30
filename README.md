@@ -1,5 +1,5 @@
 # Calculator
-This is a software that simulates a calculator. Each method requires two arguments (float and/or int).
+This is a project that simulates a calculator. Each method requires two arguments (float and/or int).
 
 ## Addition Module
 `addition.py`'s `perform_operation()` adds the two arguments together.
